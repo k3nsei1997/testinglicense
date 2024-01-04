@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "json-server": "^0.17.4",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.2.6",
+    "request-ip": "^3.3.0"
+  }
+}
